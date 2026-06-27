@@ -39,9 +39,6 @@ export default function HomePage() {
   return (
     <main className="mx-auto w-full max-w-2xl px-5 pb-20 pt-14 sm:pt-20">
       <header className="mb-10 text-center sm:mb-14">
-        <p className="mb-3 text-xs font-medium uppercase tracking-[0.3em] text-gold/70">
-          Directline Studio
-        </p>
         <h1 className="text-4xl font-bold tracking-tight text-gold-gradient sm:text-5xl">
           Music Theory Test II
         </h1>
